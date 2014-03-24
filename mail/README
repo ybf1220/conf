@@ -1,0 +1,2 @@
+yum install dovecot postfix mysql-server dovecot-mysql
+
